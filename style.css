@@ -1,0 +1,18 @@
+body {
+    background-color: cadetblue;
+    font-family: calibri;
+}
+
+li {
+    background-color: hotpink;
+}
+
+
+h2 {
+    color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+    background-color: cornsilk;
+}
